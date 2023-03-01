@@ -51,6 +51,10 @@
 							<a class="nav-link" href="{{route('newslist')}}" id="nav-dropdown" data-toggle="" aria-haspopup="true" aria-expanded="false">اخبار</a>
 
 						</li>
+                        <li class="nav-item dropdown nav-dropdown">
+							<a class="nav-link" href="{{route('personal-list')}}" id="nav-dropdown" data-toggle="" aria-haspopup="true" aria-expanded="false">تیم ما</a>
+
+						</li>
 						<li class="nav-item dropdown nav-dropdown">
 							<a class="nav-link" href="{{route('getabout')}}" id="nav-dropdown" data-toggle="" aria-haspopup="true" aria-expanded="false">درباره ما</a>
 
